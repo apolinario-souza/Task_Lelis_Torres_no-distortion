@@ -1,7 +1,7 @@
 import pygame
 
 #Configuration trials
-N_TRIALS = 24
+N_TRIALS = 54
 
 #Configuration screen
 WIDTH, HEIGHT = 1680, 1050
@@ -39,6 +39,7 @@ HOLDING = 1000
 WARNING = 2000
 RANDOM_INTERVAL = (1000, 1500)
 EXECUTION = 1500
+TIME_FEEDBACK = 1000 
 TIME_IMG = 1500 
 
 
